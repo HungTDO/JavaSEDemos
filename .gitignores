@@ -1,0 +1,9 @@
+*.pydevproject
+.metadata
+bin/
+local.properties
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
